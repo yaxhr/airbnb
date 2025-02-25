@@ -1,0 +1,16 @@
+{
+  "name": "bunkaway-booking",
+  "version": "1.0.0",
+  "description": "Bunkaway Booking Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.7.2"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
